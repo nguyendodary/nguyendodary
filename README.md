@@ -3,7 +3,7 @@
 
 ---
 
-🎓 Software Engineering Student at Duy Tan University (2023 - 2027)  
+🎓 Software Engineering Student  
 ☁️ Passionate about Cloud Computing & DevOps  
 🚀 Focused on building scalable, containerized and automated systems  
 
