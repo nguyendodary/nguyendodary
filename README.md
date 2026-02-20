@@ -1,71 +1,54 @@
 <h1 align="center">Nguyen Quoc Do</h1>
-<h3 align="center">Aspiring CloudOps / DevOps Engineer ☁️</h3>
 
 <p align="center">
-Building scalable, automated and reliable cloud systems.
+Software Engineering Student  
+Interested in Cloud & DevOps
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 🎓 Software Engineering Student
-- ☁️ Focused on Cloud Computing & Infrastructure
-- 🐳 Learning Docker, Kubernetes & CI/CD
-- 🐧 Improving Linux & system administration daily
-- 🎯 Goal: Become a Cloud/DevOps Engineer working with scalable production systems
+I am currently studying Software Engineering and focusing on Cloud Computing and DevOps fundamentals.
+
+I am learning how to build, deploy, and manage applications using Linux, Docker, and basic AWS services.  
+My goal is to gradually improve my infrastructure and system design skills through hands-on practice.
 
 ---
 
-## 🛠 Tech Stack
+## Currently Learning
 
-### Cloud
-- AWS (EC2, S3, IAM, VPC - learning & hands-on labs)
+- Linux system administration
+- Docker & containerization
+- Basic Kubernetes
+- AWS core services (EC2, S3, IAM)
+- CI/CD fundamentals
 
-### DevOps / Infrastructure
-- Docker
-- Kubernetes (basic)
+---
+
+## Tech Stack (Basic Experience)
+
+- JavaScript, Python
+- Node.js, Express
+- MySQL, MongoDB
 - Git & GitHub
 - Linux (Ubuntu)
 
-### Programming
-- JavaScript
-- Python
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MySQL
-- MongoDB
-
 ---
 
-## 📊 GitHub Stats
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyendodary&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendodary&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyendodary&show_icons=true&theme=default&hide_border=true" height="160" />
 </p>
 
 ---
 
-## 🚀 Current Focus (2026)
+## Contact
 
-- Deploying containerized applications
-- Building CI/CD pipelines
-- Practicing Linux system projects
-- Preparing for Cloud/DevOps internships
+- Email: nguyenquocdodary@gmail.com
+- LinkedIn: https://linkedin.com/in/do-nguyen-quoc
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: nguyenquocdodary@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/do-nguyen-quoc
-- 🐙 GitHub: https://github.com/nguyendodary
-
----
-
-⭐ Open to Cloud / DevOps Internship Opportunities
+Always open to learning and internship opportunities.
